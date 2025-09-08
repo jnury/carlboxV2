@@ -1,6 +1,6 @@
 # Carlbox v2
 
-Carlbox v2 is the next iteration of the Carlbox sampler — a small, playful device that periodically plays short, recognizable audio snippets (TV intros, iconic movie quotes, chimes, and other fun sounds) to bring smiles and a light atmosphere to the workspace.
+Carlbox v2 is the next iteration of the Carlbox sampler — a small, playful device to play, on-demand, recognizable audio snippets (TV intros, iconic movie quotes, chimes, and other fun sounds) to bring smiles and a light atmosphere to the workspace.
 
 This repository contains materials for the v2 platform which is built around an Orange Pi Zero running Alpine Linux (previous version used a Raspberry Pi 3 and Raspbian). The new hardware and software stack focuses on low power, portability, and an improved user experience.
 
